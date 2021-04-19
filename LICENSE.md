@@ -1,6 +1,3 @@
-ASDP (AutoStructure)
-User and Developer License Agreement
-
 ASDP (AutoStructure) User and Developer License Agreement
 
 1. Definitions 
@@ -34,5 +31,6 @@ c) Huang, Y.P.; Mao, B.; Xu, F.; Montelione, G.T. Guiding automated NMR structur
 
 10. User or Developer accepts the software “as is”. Neither Rutgers nor Rensselaer Polytechnic Institute nor the authors warrant the software for any particular use or purpose and will not be held liable for any use you make of the software, This license in no way affects any rights that the US Government may have in the software and you may be responsible if you export the software in violation of any applicable laws of regulations.
 
-In order to obtain a password to download the ASDP Software please return a signed copy of this license form and the following registration form to: Prof. Gaetano Montelione, Center for Biotechnology and Interdisciplinary Studies
+For commencial license, please contacts: 
+Prof. Gaetano Montelione, Center for Biotechnology and Interdisciplinary Studies
 1623 15th Street Troy, N.Y. 12180.  Email:  monteg3@rpi.edu
